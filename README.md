@@ -84,24 +84,4 @@ Editar
 ├── README.md               # Este archivo
 └── notebooks/
     └── EDA.ipynb           # Exploración de datos con Jupyter
-🤝 Contribuciones
-¡Las contribuciones son bienvenidas! Si tienes ideas o mejoras, siéntete libre de abrir un issue o hacer un pull request.
 
-🧑‍💻 Autor
-👨‍💻 Tu Nombre Aquí
-📧 tu-email@example.com
-🔗 LinkedIn | GitHub
-
-📝 Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más información.
-
-yaml
-Copiar
-Editar
-
----
-
-### ✅ Recomendaciones:
-- Asegúrate de reemplazar los enlaces falsos con tus propios enlaces de GitHub, Render y redes sociales.
-- Puedes personalizar los colores y emojis según tu estilo.
-- Para que los **colores HTML** funcionen en GitHub, te recomiendo limitar el uso a etiquetas `<div># Sprint_7
